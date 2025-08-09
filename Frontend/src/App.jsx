@@ -6,7 +6,7 @@ import useAuthUser from './hookes/useAuthUser.js';
 
 import HomePage from './pages/HomePage.jsx';
 import SignUpPage from './pages/SignUpPage.jsx';
-import LoginPage from './pages/LoginPage.jsx';
+import LoginPage from './Pages/LoginPage.jsx';
 import OnbordingPage from './pages/OnbordingPage.jsx';
 import NotificationPage from './pages/NotificationPage.jsx';
 import CallPage from './pages/CallPage.jsx';
