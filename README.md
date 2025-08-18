@@ -21,5 +21,4 @@ A full-stack **Real-Time Chat & Video Calling Web Application** built with **MER
 - **Real-Time Messaging & Video:** Stream API
 - **Authentication:** JWT + Bcrypt
 
----
 
